@@ -1,0 +1,24 @@
+Michael Byers
+14 Plainfield Dr
+Charleston, SC 29407
+michaelbyers2424@gmail.com
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Software Developer position at Booz Allen. With a solid foundation in web development and a passion for creating innovative solutions, I am excited about the opportunity to contribute to your team.
+
+My journey in software development began with HTML and CSS through online courses, which led me to pursue an intensive coding bootcamp. There, I gained hands-on experience with the MERN (MongoDB, Express, React, and Node) stack and built several projects, including a capstone project. This experience equipped me with a deep understanding of MVC architecture and agile methodology.
+
+Since completing the bootcamp, I have expanded my skill set to include technologies such as TypeScript, Next.js, Prisma, MySQL, PostgreSQL, GraphQL, Tailwind CSS, and Material UI. I have also recently started learning Python. Additionally, I have competed in hackathons, where I demonstrated my ability to quickly learn and apply new technologies to develop innovative solutions under tight deadlines.
+
+In my current role as a Frontend Developer intern, I have gained practical experience in implementing new features, maintaining functionality, and ensuring high code quality. I collaborate closely with backend developers to integrate front-end and server-side functionality and conduct thorough testing and debugging.
+
+I am confident that my background in web development and my passion for creating high-quality software solutions align well with your company's goals. My proficiency in JavaScript, Typescript, and my ability to work both independently and collaboratively make me an excellent fit for this role.
+
+Enclosed is my resume, which provides additional details about my qualifications. I look forward to the opportunity to discuss how my background, skills, and experiences can contribute to the Booz Allen team. Please feel free to contact me at 912-660-0488 or michaelbyers2424@gmail.com to arrange a conversation.
+
+Thank you for considering my application. I am excited about the possibility of joining Booz Allen and contributing to your dynamic and impactful work.
+
+Best regards,
+
+Michael Byers
